@@ -1,2 +1,2 @@
 # embedded-systems
-Code written for Udemy embedded systems courses.
+Code written in C for Udemy embedded systems courses.
