@@ -1,0 +1,7 @@
+11:23:21 **** Clean-only build of configuration Debug for project 019Drivers ****
+make -j4 clean 
+rm -rf *
+ 
+
+11:23:22 Build Finished. 0 errors, 0 warnings. (took 882ms)
+
