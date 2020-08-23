@@ -8,5 +8,5 @@ Taking courses offered [here.](https://www.udemy.com/user/kiran-nayak-2/)
 - MCU2 (21.5h) - covered timers, PWM, CAN communication, RTC 
 - RTOS (15h) - covered RTOS, freeRTOS (memory management, interrupts), scheduling of tasks (task creation, deletion, priority) 
 
-**Scheduled** 
+**Scheduled**
 None at the moment. 
