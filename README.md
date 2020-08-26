@@ -1,5 +1,5 @@
 # embedded-systems
-Code written in C for Udemy embedded systems courses, using the STM32 Nucleo board. I have completed 75+ hours thus far (the equivalent of approx. two university courses).  
+Code written in C for Udemy embedded systems courses, using the STM32 Nucleo board. I have completed 75+ hours thus far (the equivalent of two university courses).  
 Taking courses offered [here.](https://www.udemy.com/user/kiran-nayak-2/)  
 
 **Finished**
